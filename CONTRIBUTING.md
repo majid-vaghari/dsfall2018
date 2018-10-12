@@ -17,15 +17,15 @@ _Please be advised. You are required to wait at least 72 hours after the deadlin
 
 ### Conventions
 
-Follow the naming conventions. An empty file will be available for each assignment or quiz before its deadline.
+ - Follow the naming conventions. An empty file will be available for each assignment or quiz before its deadline.
 
-Solutions must be in Persian.
+ - Solutions must be in Persian.
 
-Each pull request should contain **only one** solution to **only one** problem.
+ - Each pull request should contain **only one** solution to **only one** problem.
 
-Please don't send pull requests for exercises that are already solved.
+ - Please don't send pull requests for exercises that are already solved.
 
-Out of many submitted PRs, only _one_ will be accepted.
+ - Out of many submitted PRs, only _one_ will be accepted.
 
 ## Reporting Issues
 
