@@ -15,6 +15,18 @@ To submit your solutions you need to [create a pull request](https://help.github
 
 _Please be advised. You are required to wait at least 72 hours after the deadline for each assignment before you submit your solutions; otherwise, **it will be considered an act of academic dishonesty and a direct violation of course policies.**_
 
+### Conventions
+
+Follow the naming conventions. An empty file will be available for each assignment or quiz before its deadline.
+
+Solutions must be in Persian.
+
+Each pull request should contain **only one** solution to **only one** problem.
+
+Please don't send pull requests for exercises that are already solved.
+
+Out of many submitted PRs, only _one_ will be accepted.
+
 ## Reporting Issues
 
 If you see a problem with a solution, [create an issue](https://help.github.com/articles/creating-an-issue/).
